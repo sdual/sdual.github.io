@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Principle of Virtual Work</title>
+    <link>https://example.com/</link>
+    <description>Recent content on Principle of Virtual Work</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sun, 06 Nov 2022 23:42:40 +0900</lastBuildDate><atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>テスト</title>
+      <link>https://example.com/posts/entry-202211062342/</link>
+      <pubDate>Sun, 06 Nov 2022 23:42:40 +0900</pubDate>
+      
+      <guid>https://example.com/posts/entry-202211062342/</guid>
+      <description>When the rain begins to fall&amp;hellip;</description>
+    </item>
+    
+  </channel>
+</rss>
